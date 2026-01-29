@@ -109,7 +109,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=premrajsingh&theme=radical&no-frame=true&margin-w=15&column=7" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=premrajsingh&theme=radical&column=7&margin-w=15&no-bg=true" width="100%" />
 </div>
 
 ---
@@ -119,7 +119,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/premrajsingh"><img src="https://visitor-badge.laobi.icu/badge?page_id=premrajsingh.premrajsingh&color=36BCF7" /></a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=premrajsingh&color=36BCF7" />
 </div>
 
 

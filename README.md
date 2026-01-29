@@ -59,7 +59,7 @@
       <td width="50%" valign="top">
         <div style="padding: 15px; border-radius: 10px; border: 1px solid #30363d;">
           <h4 align="center">📊 Impact</h4>
-          <img width="100%" src="https://github-readme-stats.vercel.app/api?username=premrajsingh&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
+          <img width="100%" src="https://github-readme-stats-salesp07.vercel.app/api?username=premrajsingh&show_icons=true&theme=radical&hide_border=true" />
         </div>
       </td>
     </tr>
@@ -102,8 +102,8 @@
 
 <div align="center">
   <h3>🔥 Performance Metrics</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=premrajsingh&theme=radical&hide_border=true&background=0D1117" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=premrajsingh&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=premrajsingh&theme=radical&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=premrajsingh&layout=compact&theme=radical&hide_border=true" width="49%" />
 </div>
 
 <br>
